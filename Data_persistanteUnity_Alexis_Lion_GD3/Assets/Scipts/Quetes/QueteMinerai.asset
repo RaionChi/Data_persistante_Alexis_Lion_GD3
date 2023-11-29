@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf2f5efaa5da55498ffc39a0421ee47, type: 3}
+  m_Name: QueteMinerai
+  m_EditorClassIdentifier: 
+  Objectives:
+  - {fileID: 11400000, guid: 526e49e7d6717a9409f58b7564bfb0a9, type: 2}
+  - {fileID: 11400000, guid: 4aee5c07780aee143901977bd6452d2d, type: 2}
+  - {fileID: 11400000, guid: 58c2c45a24a38274fa3f2fe984f62cde, type: 2}
+  IsStarted: 0
+  IsFinished: 0
